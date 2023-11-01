@@ -12,7 +12,7 @@
 - https://www.blogs.unicamp.br/cienciapelosolhosdelas/2020/04/17/estrelas-alem-do-tempo-mulheres-cientistas-nasa/ 
 - https://www.nasa.gov/centers-and-facilities/langley/dorothy-j-vaughan/
 - https://www.nasa.gov/history/mary-w-jackson/
-- 
+-  b
 
 
 Fotos
