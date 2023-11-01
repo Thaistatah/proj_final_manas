@@ -5,7 +5,7 @@
  Em 1949, ela foi a primeira mulher negra a ser promovida chefe de departamento na NASA
 
  Fontes
--  https://lirte.pesquisa.ufabc.edu.br/coletivo_mina/personalidades-femininas/dorothy-vaughan/
+- https://lirte.pesquisa.ufabc.edu.br/coletivo_mina/personalidades-femininas/dorothy-vaughan/
 - https://querobolsa.com.br/enem/biografias/dorothy-vaughan
 - https://pt.wikipedia.org/wiki/Dorothy_Vaughan
 - https://www.eldorado.org.br/blog/quem-foi-dorothy-vaughan-a-primeira-supervisora-negra-na-historia-da-nasa/
@@ -21,3 +21,10 @@ Fotos
 - https://www.nasa.gov/image-detail/hampton-institute-tour/
 - https://www.nasa.gov/image-detail/judy-sullivan-lead-engineer-apollo-11-biomedical-system/
 - https://www.nasa.gov/image-detail/jeanette-scissum-scientist-mathematician-nasa-marshall/
+
+Parte para lembrar: 
+
+Pensar no prototipo, 
+
+
+Encontrar referenecias de siters feitos
